@@ -27,30 +27,3 @@
   to = "https://ask.kubesphere.io/forum/"
   status = 301
   force = true
-
-[[redirects]]
-  from = "/docs/"
-  to = "https://docs.kubesphere.com.cn "
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/docs/*"
-  to = "https://docs.kubesphere.com.cn "
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/zh/docs/"
-  to = "https://docs.kubesphere.com.cn "
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/zh/docs/*"
-  to = "https://docs.kubesphere.com.cn "
-  status = 301
-  force = true
-
-
-
